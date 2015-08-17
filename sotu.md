@@ -557,6 +557,7 @@ you then you should follow their blog:
 
 * `gl`
 * `SDL` / `SDL-*`
+* `GLFW-b`
 * `SFML`
 * `quine` (Github-only project)
 
@@ -1123,6 +1124,7 @@ worth checking out which is reasonably polished but cannot be used offline.
 * `haskell-mode` - Umbrella project for Haskell `emacs` support
 * `codex` - Tags file generator for cabal project dependencies.
 * `hdevtools` - Persistent GHC-powered background server for development tools
+* `steeloverseer` - a very helpful file watcher
 
 **IDE plugins**:
 
